@@ -23,7 +23,7 @@ dummy text [dummy](../dummy.md). + images
 
 ## Usage
 
-It has certainly happened to you that you will suddenly find that there is goods throughout your store that do not have your image.
+It has certainly happened to you, that you will suddenly find that there is goods throughout your store that do not have your image.
 You decide to replace all these images with another and prestigious image that is thematic for your business. But finding all these images would be time consuming and there is also the possibility that you will not discover all the images. For this reason, there is an <strong>SDIR</strong> plugin that will solve these inconveniences for you with a few clicks. Just upload your own image and it will be uploaded all over your store. Of course, if you have more shops, otherwise thematically focused - even in this case, the <strong>SDIR</strong> plugin is adapted, so you can have a different image in each shop.
 
 ## Release Notes
