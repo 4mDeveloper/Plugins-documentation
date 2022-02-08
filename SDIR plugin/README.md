@@ -1,12 +1,6 @@
 # SDIR plugin (Shop dummy image replacement)
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-![header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/SDIR%20plugin/SDIR%20images%20for%20documentation/4m-media.png?raw=true)
-=======
->>>>>>> parent of 620c265 (update documentation)
-=======
->>>>>>> parent of 620c265 (update documentation)
+![header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/SDIR%20plugin/SDIR%20images%20for%20documentation/00%20-Plugin%20SDIR.png?raw=true)
 
 ## Description
 
@@ -24,7 +18,7 @@ dummy text [dummy](../dummy.md). + images
 
 
 
-![header image](https://github.com/HusekPetr1991/Plugins-documentation/blob/main/Plugins/SDIR%20plugin/Documentations%20images/example.png?raw=true)
+![header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/SDIR%20plugin/SDIR%20images%20for%20documentation/00%20-Plugin%20SDIR.png?raw=true)
 
 
 ## Usage
