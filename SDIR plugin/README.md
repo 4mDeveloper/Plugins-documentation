@@ -1,5 +1,5 @@
 # SDIR plugin (Shop dummy image replacement)
-![header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/SDIR%20plugin/SDIR%20images%20for%20documentation/00%20-Plugin%20SDIR.png?raw=true)
+![header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/SDIR%20plugin/SDIR%20images%20for%20documentation/4m-media.png?raw=true)
 
 ## Description
 
