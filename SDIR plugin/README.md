@@ -13,18 +13,42 @@ This <strong>"SDIR"</strong> plugin adds the possibility to exchange the origina
 
 ## Configuration
 
-
-dummy text [dummy](../dummy.md). + images
-
-
+### 1) Install & activate SDIR plugin 
 
 ![header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/SDIR%20plugin/SDIR%20images%20for%20documentation/00%20-Plugin%20SDIR.png?raw=true)
 
+### 2) Click on "Configuration" option 
 
+![header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/SDIR%20plugin/SDIR%20images%20for%20documentation/00%20-Plugin%20SDIR.png?raw=true)
+
+### 4) In settings fill all fields (recommended)
+
+![header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/SDIR%20plugin/SDIR%20images%20for%20documentation/00%20-Plugin%20SDIR.png?raw=true)
+
+#### 1) Choose <strong>Sales Channel</strong>
+* Choose, where you want to use <strong>SDIR</strong> plugin. That means, if you have some other sub shop - you can set there other dummy image. So all your shop / sub shop can have their own image. 
+
+#### 2) <strong>SDIR Activation</strong>
+* Here, you can set, if you want to have <strong>SDIR</strong> plugin active on your shop / sub shop.
+
+#### 3) <strong>SDIR Settings</strong>
+* Here, you can choose your image, which will be displayed on your shop / sub shop.
+
+#### 4) and 5) <strong>SEO Settings</strong>
+* Set <strong>Title</strong> to your own image.
+* Set <strong>Alt</strong> to your own image.
+
+
+<!--dummy text [dummy](../dummy.md). + images -->
 ## Usage
 
 It has certainly happened to you, that you will suddenly find that there is goods throughout your store that do not have your image.
 You decide to replace all these images with another and prestigious image that is thematic for your business. But finding all these images would be time consuming and there is also the possibility that you will not discover all the images. For this reason, there is an <strong>SDIR</strong> plugin that will solve these inconveniences for you with a few clicks. Just upload your own image and it will be uploaded all over your store. Of course, if you have more shops, otherwise thematically focused - even in this case, the <strong>SDIR</strong> plugin is adapted, so you can have a different image in each shop.
+
+
+## Gallery
+
+
 
 ## Release Notes
 
