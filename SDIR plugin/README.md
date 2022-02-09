@@ -15,15 +15,15 @@ This <strong>"SDIR"</strong> plugin adds the possibility to exchange the origina
 
 ### 1) Install & activate SDIR plugin 
 
-![header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/SDIR%20plugin/SDIR%20images%20for%20documentation/00%20-Plugin%20SDIR.png?raw=true)
+![header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/SDIR%20plugin/SDIR%20images%20for%20documentation/00-Plugin-SDIR-Activation.png?raw=true)
 
 ### 2) Click on "Configuration" option 
 
-![header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/SDIR%20plugin/SDIR%20images%20for%20documentation/00%20-Plugin%20SDIR.png?raw=true)
+![header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/SDIR%20plugin/SDIR%20images%20for%20documentation/01-Plugin-SDIR-Configuration.png?raw=true)
 
-### 4) In settings fill all fields (recommended)
+### 3) In settings fill all fields (recommended)
 
-![header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/SDIR%20plugin/SDIR%20images%20for%20documentation/00%20-Plugin%20SDIR.png?raw=true)
+![header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/SDIR%20plugin/SDIR%20images%20for%20documentation/02-Plugin-SDIR-Configuration-Settings.png?raw=true)
 
 #### 1) Choose <strong>Sales Channel</strong>
 * Choose, where you want to use <strong>SDIR</strong> plugin. That means, if you have some other sub shop - you can set there other dummy image. So all your shop / sub shop can have their own image. 
