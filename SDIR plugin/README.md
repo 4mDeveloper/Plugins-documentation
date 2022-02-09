@@ -48,6 +48,7 @@ You decide to replace all these images with another and prestigious image that i
 
 ## Gallery
 
+<img src="https://user-images.githubusercontent.com/99150908/153189338-5fbeaed3-0f3c-4db1-8163-3a11c0d3e615.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/99150908/153189342-1812e0e7-126b-4eab-8175-2a689f267d03.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/99150908/153189345-08b84048-00b7-4ad0-9d34-ea1ec377c23d.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/99150908/153189348-99d56766-b6b4-44d4-a210-cfe9b66e0d6f.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/99150908/153189350-c32a2072-3f08-4492-ad48-559f30c7f405.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/99150908/153189352-827c5c4d-bf44-4189-8ec6-cf57f2f4c62c.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/99150908/153189355-fb20044c-5cd8-4a64-a25a-1f70764ba2fa.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/99150908/153189359-b13d390c-ff7a-4c59-8682-4232f6d862f7.png" width="45%"></img> 
 
 
 ## Release Notes
