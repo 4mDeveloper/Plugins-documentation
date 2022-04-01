@@ -1,6 +1,6 @@
 # Page Locker plugin
 
-![header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/SDIR%20plugin/SDIR%20images%20for%20documentation/4m-media-logo.png?raw=true)
+![header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/Page%20Locker%20Plugin/Page%20Locker%20images%20for%20documentation/4m-media-logo.png?raw=true)
 
 ## Description
 
