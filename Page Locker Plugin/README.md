@@ -1,6 +1,6 @@
 # Page Locker plugin
 
-<!-- ![header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/Page%20Locker%20Plugin/Page%20Locker%20images%20for%20documentation/4m-media-logo.png?raw=true) -->
+![header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/Page%20Locker%20Plugin/Page%20Locker%20images%20for%20documentation/4m-media-logo.png?raw=true)
 
 ## Description
 
@@ -17,15 +17,15 @@ This <strong>"Page Locker"</strong> plugin adds the possibility lock up to 5 pag
 
 ### 1) Install & activate Page Locker plugin 
 
-<!-- ![header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/Page Locker%20plugin/Page Locker%20images%20for%20documentation/00-Plugin-Page Locker-Activation.png?raw=true) -->
+![header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/Page%20Locker%20Plugin/Page%20Locker%20images%20for%20documentation/Gallery/BASE%20images%20-%20Backend/00-Plugin-Page-Locker-Activation.png?raw=true)
 
 ### 2) Click on "Configuration" option 
 
-<!-- ![header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/Page Locker%20plugin/Page Locker%20images%20for%20documentation/01-Plugin-Page Locker-Configuration.png?raw=true) -->
+![header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/Page%20Locker%20Plugin/Page%20Locker%20images%20for%20documentation/Gallery/BASE%20images%20-%20Backend/01-Plugin-Page-Locker-Configuration.png?raw=true)
 
 ### 3) Fill all fields (recommended)
 
-<!-- ![header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/Page Locker%20plugin/Page Locker%20images%20for%20documentation/02-Plugin-Page Locker-Configuration-Settings.png?raw=true) -->
+![header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/Page%20Locker%20Plugin/Page%20Locker%20images%20for%20documentation/Gallery/BASE%20images%20-%20Backend/02-Plugin-Page-Locker-Configuration-Settings-url1.png?raw=true)
 
 #### 1) Choose <strong>Sales Channel</strong>
 * Choose, where you want to use <strong>Page Locker</strong> plugin. That means, if you have some other `sub store` - you can set there other pages, which you want to `lock`. So all your `store / sub store` can have their own `locked` pages. 
@@ -52,7 +52,7 @@ In  <strong>Page Locker</strong> plugin settings, you can also set number of day
 ## Gallery
 <!-- https://felixhayashi.github.io/ReadmeGalleryCreatorForGitHub/ -->
 
-<!-- <img src="https://user-images.githubusercontent.com/99150908/153193025-1dc7f30b-4f22-4685-ab3f-3a36b9f02956.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/99150908/153193027-f583dfdf-3302-4961-8eb4-24ba71ec7a6a.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/99150908/153193029-a9cb673d-beaf-4d0c-90d2-95085af0a6b7.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/99150908/153193030-e7e8f30f-728a-4dc2-9838-d5e308378917.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/99150908/153193031-5772ee84-f4a1-445f-bc61-16ace24bb5cb.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/99150908/153193033-7bb0f200-0b98-44d5-ab20-0277658b0612.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/99150908/153193035-6f4e5d6c-7e08-4016-b134-66a501877a56.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/99150908/153193020-1c54ac07-ddfc-463b-8c76-01afc40078fb.png" width="23%"></img>  -->
+<img src="https://user-images.githubusercontent.com/99150908/162456996-78a9e38c-46ba-4f2b-aa67-685504c84a54.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/99150908/162457000-bce7315f-d346-4f15-bc7e-8206c224bd95.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/99150908/162457005-74a8003a-1bd9-4d57-9fd6-0c78ac823425.png" width="30%"></img> 
 
 
 ## Release Notes
