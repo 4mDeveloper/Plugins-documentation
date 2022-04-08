@@ -7,11 +7,11 @@
 This <strong>"Page Locker"</strong> plugin adds the possibility lock up to 5 pages per `store / sub store`.
 
 * Language support <strong>EN / GER</strong>.
-* `Sub stores` support - Each `sub store` can have its own 5 page for `locking`.
+* `Sub stores` support - Each `sub store` can have its own 5 pages for `locking`.
 * Option to keep the plugin inactive only for the selected `sub store`.
 * Option for remembering your password for your `locked` pages in your browser.
 * Absolutely safe - All passwords are sent on server side.
-* Can be used in many ways - for safe preparing page content / hidden content for some `VIP` or some `club` etc.
+* Can be used in many ways - for safe preparing page content / hidden content for some `VIP` or some `club` members etc.
 
 ## Configuration
 
@@ -34,7 +34,7 @@ This <strong>"Page Locker"</strong> plugin adds the possibility lock up to 5 pag
 * Here, you can set, if you want to have <strong>Page Locker</strong> plugin active on your `store / sub store`.
 
 #### 3) <strong>Page Locker Settings</strong>
-* Here, you can choose your image, which will be displayed on your `store / sub store`.
+* Here, you can set which pages will be `locked` in your `store / sub store`.
 
 
 <!--dummy text [dummy](../dummy.md). + images -->

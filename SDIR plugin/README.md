@@ -54,12 +54,12 @@ You decide to replace all these images with another and prestigious image that i
 
 ## Release Notes
 
-### Release 1.0.1 (February, 2021)
+### Release 1.0.1 (February, 2022)
 * Added new config possibilities for `sub shops`
 * Added SEO inputs field for your image
 * Added possibility to turn on plugin only on `shop / sub shop`s you wish
 * Adjusted for responsivity for devices
 * Added language support for Germany
 
-### Release 1.0.0 (Jannuary, 2021)
+### Release 1.0.0 (Jannuary, 2022)
 * Initial release
