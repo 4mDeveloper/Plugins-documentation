@@ -33,9 +33,11 @@ This <strong>"Page Locker"</strong> plugin adds the possibility lock up to 5 pag
 #### 2) <strong>Page Locker Activation</strong>
 * Here, you can set, if you want to have <strong>Page Locker</strong> plugin active on your `store / sub store`.
 
-#### 3) <strong>Page Locker Settings</strong>
-* Here, you can set which pages will be `locked` in your `store / sub store`.
-
+#### 3) <strong>Page Locker Settings</strong> - URL #1 / URL #2 / URL #3 / URL #4 / URL #5  
+* Here, you can set, if you want to `lock` your <strong>URL<strong> (URL `1 - 5`)
+* Enter URL of the page you want to `lock`.
+* Enter your `password` for your page.
+* Enter the number of days of cookie `validity`.
 
 <!--dummy text [dummy](../dummy.md). + images -->
 ## Usage
