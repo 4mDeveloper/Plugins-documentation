@@ -34,12 +34,11 @@ This <strong>"Page Locker"</strong> plugin adds the possibility lock up to 5 pag
 * Here, you can set, if you want to have <strong>Page Locker</strong> plugin active on your `store / sub store`.
 
 #### 3) <strong>Page Locker Settings</strong> - URL #1 / URL #2 / URL #3 / URL #4 / URL #5  
-* Here, you can set, if you want to `lock` your <strong>URL<strong> (URL `1 - 5`)
+* Here, you can set, if you want to `lock` your <strong>URL</strong> (URL `1 - 5`).
 * Enter URL of the page you want to `lock`.
 * Enter your `password` for your page.
 * Enter the number of days of cookie `validity`.
 
-<!--dummy text [dummy](../dummy.md). + images -->
 ## Usage
 It has certainly happened to you, that you planned to make some new content on your store, but you wanted to do it without access of any customer.
 In this case, this plugin is exactly for you. With this  <strong>Page Locker</strong> plugin you can `lock` your page and this page will be after entering your password visible only for you. So you can work on this page, with no worries, that some customer will see your "unprepared" page. When you will be finished with your adjustments, just turn off your `locked` page in plugin settings.
