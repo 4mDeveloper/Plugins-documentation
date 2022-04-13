@@ -38,6 +38,9 @@ This <strong>"Page Locker"</strong> plugin adds the possibility lock up to 5 pag
 * Enter URL of the page you want to `lock`.
 * Enter your `password` for your page.
 * Enter the number of days of cookie `validity`.
+* Choose `Media file` or `Color picker` for adjusting background of login page. 
+
+
 
 ## Usage
 It has certainly happened to you, that you planned to make some new content on your store, but you wanted to do it without access of any customer.
