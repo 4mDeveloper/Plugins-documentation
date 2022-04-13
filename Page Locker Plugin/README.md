@@ -58,6 +58,10 @@ In  <strong>Page Locker</strong> plugin settings, you can also set number of day
 
 ## Release Notes
 
+### Release 1.0.3 (April, 2022)
+* Added language support for Germany
+* Posibility to choose colored background or own picture to background of login page
+
 ### Release 1.0.2 (April, 2022)
 * Added possibility to "remember" your password in your browser
 * You can now lock up to 5 pages per `store / sub store`
@@ -66,7 +70,6 @@ In  <strong>Page Locker</strong> plugin settings, you can also set number of day
 * Added new config possibilities for `sub stores`
 * Added possibility to turn on plugin only on `store / sub store`s you wish
 * Adjusted for responsivity for devices
-* Added language support for Germany
 
 ### Release 1.0.0 (February, 2022)
 * Initial release
