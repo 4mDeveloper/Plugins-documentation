@@ -53,7 +53,7 @@ Thanks to the animations, the shop looks modern and your customers will be happy
 ## Gallery
 <!-- https://felixhayashi.github.io/ReadmeGalleryCreatorForGitHub/ -->
 
-<img src="https://user-images.githubusercontent.com/99150908/226575599-12585757-6879-46f7-828e-5ff7ac9dafb6.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/99150908/226575601-8ef280c8-35ca-4ecf-8d78-5a5e01fee38a.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/99150908/226575592-5c4daa98-219c-46c8-b912-c6495aa1ab24.gif" width="45%"></img> 
+<img src="https://user-images.githubusercontent.com/99150908/226575599-12585757-6879-46f7-828e-5ff7ac9dafb6.png" width="90%"></img> <img src="https://user-images.githubusercontent.com/99150908/226575601-8ef280c8-35ca-4ecf-8d78-5a5e01fee38a.png" width="90%"></img> <img src="https://user-images.githubusercontent.com/99150908/226575592-5c4daa98-219c-46c8-b912-c6495aa1ab24.gif" width="90%"></img> 
 
 
 ## Release Notes
