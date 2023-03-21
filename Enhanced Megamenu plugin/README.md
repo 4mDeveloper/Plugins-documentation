@@ -14,7 +14,7 @@ This <strong>"Enhanced Megamenu"</strong> plugin adds the possibility to have an
 
 ## Configuration
 
-### 1) Install & activate Page Locker plugin 
+### 1) Install & activate Enhanced Megamenu plugin 
 
 ![header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/Enhanced%20Megamenu%20plugin/Enhanced%20megamenu%20images%20for%20documentation/Gallery/BASE%20images%20-%20Backend/00-Enhanced-Megamenu-Activation.png?raw=true)
 
