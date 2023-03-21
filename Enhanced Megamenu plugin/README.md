@@ -39,7 +39,7 @@ This <strong>"Enhanced Megamenu"</strong> plugin adds the possibility to have an
 * By default are used `Primary & Secondary` colors of your store.
 
 #### 4) <strong>Theme Compilation</strong>
-[header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/Enhanced%20Megamenu%20plugin/Enhanced%20megamenu%20images%20for%20documentation/Gallery/BASE%20images%20-%20Backend/03-Enhanced-Megamenu-Theme-Compilation.png?raw=true)
+![header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/Enhanced%20Megamenu%20plugin/Enhanced%20megamenu%20images%20for%20documentation/Gallery/BASE%20images%20-%20Backend/03-Enhanced-Megamenu-Theme-Compilation.png?raw=true)
 
 * If you want your settings to take effect, you need to `compile` your theme.
 
