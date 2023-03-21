@@ -16,15 +16,15 @@ This <strong>"Enhanced Megamenu"</strong> plugin adds the possibility to have an
 
 ### 1) Install & activate Page Locker plugin 
 
-![header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/Page%20Locker%20Plugin/Page%20Locker%20images%20for%20documentation/Gallery/BASE%20images%20-%20Backend/00-Plugin-Page-Locker-Activation.png?raw=true)
+![header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/Enhanced%20Megamenu%20plugin/Enhanced%20megamenu%20images%20for%20documentation/Gallery/BASE%20images%20-%20Backend/00-Enhanced-Megamenu-Activation.png?raw=true)
 
 ### 2) Click on "Configuration" option 
 
-![header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/Page%20Locker%20Plugin/Page%20Locker%20images%20for%20documentation/Gallery/BASE%20images%20-%20Backend/01-Plugin-Page-Locker-Configuration.png?raw=true)
+![header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/Enhanced%20Megamenu%20plugin/Enhanced%20megamenu%20images%20for%20documentation/Gallery/BASE%20images%20-%20Backend/01-Enhanced-Megamenu-Configuration.png?raw=true)
 
 ### 3) Fill all fields (recommended) - or it will be used DEFAULT settings
 
-![header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/Page%20Locker%20Plugin/Page%20Locker%20images%20for%20documentation/Gallery/BASE%20images%20-%20Backend/02-Plugin-Page-Locker-Configuration-Settings-url1.png?raw=true)
+![header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/Enhanced%20Megamenu%20plugin/Enhanced%20megamenu%20images%20for%20documentation/Gallery/BASE%20images%20-%20Backend/02-Plugin-Configuration.png?raw=true)
 
 #### 1) Choose <strong>Sales Channel</strong>
 * Choose, where you want to adjust <strong>Enhanced Megamenu</strong> `Appearance`. That means, if you have some other `sub store` - you can set there other `Appearance` settings for each `store / sub store`. So all your `store / sub store` can have their own `Enhanced Megamenu` with different `Appearance`. 
@@ -39,7 +39,7 @@ This <strong>"Enhanced Megamenu"</strong> plugin adds the possibility to have an
 * By default are used `Primary & Secondary` colors of your store.
 
 #### 4) <strong>Theme Compilation</strong>
-[header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/Page%20Locker%20Plugin/Page%20Locker%20images%20for%20documentation/Gallery/BASE%20images%20-%20Backend/02-Plugin-Page-Locker-Configuration-Settings-url1.png?raw=true)
+[header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/Enhanced%20Megamenu%20plugin/Enhanced%20megamenu%20images%20for%20documentation/Gallery/BASE%20images%20-%20Backend/03-Enhanced-Megamenu-Theme-Compilation.png?raw=true)
 
 * If you want your settings to take effect, you need to `compile` your theme.
 
@@ -53,7 +53,7 @@ Thanks to the animations, the shop looks modern and your customers will be happy
 ## Gallery
 <!-- https://felixhayashi.github.io/ReadmeGalleryCreatorForGitHub/ -->
 
-<img src="https://user-images.githubusercontent.com/99150908/162456996-78a9e38c-46ba-4f2b-aa67-685504c84a54.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/99150908/162457000-bce7315f-d346-4f15-bc7e-8206c224bd95.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/99150908/162457005-74a8003a-1bd9-4d57-9fd6-0c78ac823425.png" width="30%"></img> 
+<img src="https://user-images.githubusercontent.com/99150908/226575599-12585757-6879-46f7-828e-5ff7ac9dafb6.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/99150908/226575601-8ef280c8-35ca-4ecf-8d78-5a5e01fee38a.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/99150908/226575592-5c4daa98-219c-46c8-b912-c6495aa1ab24.gif" width="30%"></img> 
 
 
 ## Release Notes
