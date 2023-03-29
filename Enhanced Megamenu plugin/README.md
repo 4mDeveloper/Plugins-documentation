@@ -44,7 +44,7 @@ This <strong>"Enhanced Megamenu"</strong> plugin adds the possibility to have an
 * If you want your settings to take effect, you need to `compile` your theme.
 
 ## Usage
-Animated `Enhanced Megamenu` is easy to edit and integrate into any website. This plugin is programmed for the first and second level of the menu categories and contains their own design for `mobile/tablet` devices.
+Animated `Enhanced Megamenu` is easy to edit and integrate into any website. This plugin is programmed for the first, second and third level of the menu categories and contains their own design for `mobile/tablet` devices.
 Menu works (the main structure is 100% the same) on all devices like `IOS, Android, Samsung etc.` and browsers for `Windows and Mac`
 
 Thanks to the animations, the shop looks modern and your customers will be happy to <strong>come back</strong>.
