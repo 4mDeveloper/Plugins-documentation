@@ -61,8 +61,8 @@ Thanks to the animations, the shop looks modern and your customers will be happy
 ### Release 1.1.0 (March, 2023)
 * Added language support for <strong>English & Germany</strong>
 * Adjusted texts on `mobile devices`
-* Adjusted mobile menu - Menu `first level` - colorized | Menu `second level` - standard with image
-* After installation - Colors are choosed according `Store colors` (primary / secondary)
+* Adjusted mobile menu - Menu `first level` - colorized | Menu `second level` - standard with image | Menu `third level` - standard text
+* After installation - Colors are chosen according `Store colors` (primary / secondary)
 * Possibility to change `Megamenu colors` from backend.
 * Adjusted for responsivity for devices like `IOS, Android, Samsung etc.` and browsers for `Windows and Mac`.
 
@@ -71,7 +71,7 @@ Thanks to the animations, the shop looks modern and your customers will be happy
 * Added conditions for displaying `dummy image`
 
  ### Release 1.0.1 (February, 2023)
-* possibility to add dummy image for `all categories`.
+* Possibility to add dummy image for `all categories`.
 * Added conditions to fire, when image will be popped up when hover on categories.
     a) Condition - preparing for default image after installation 
     b) Condition - Image from plugin config 
