@@ -50,7 +50,7 @@ This <strong>"Enhanced Megamenu"</strong> plugin adds function of animated and c
 * 2) In Custom Field - Upload your own `icon` to category, which will be displayed in `Enhanced Megamenu`. 
 * 3) Save your progress and see, that new icon is displayed in your category in `Megamenu`.
 
-![header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/Enhanced%20Megamenu%20plugin/Enhanced%20megamenu%20images%20for%20documentation/Gallery/BASE%20images%20-%20Backend/01-Enhanced-Megamenu-Configuration.png?raw=true)
+![header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/Enhanced%20Megamenu%20plugin/Enhanced%20megamenu%20images%20for%20documentation/Gallery/BASE%20images%20-%20Backend/04-Enhanced-Megamenu-Category-Configuration.png?raw=true)
 
 
 ## Usage
@@ -63,7 +63,7 @@ Thanks to the animations, the shop looks modern and your customers will be happy
 ## Gallery
 <!-- https://felixhayashi.github.io/ReadmeGalleryCreatorForGitHub/ -->
 
-<img src="https://user-images.githubusercontent.com/99150908/226575599-12585757-6879-46f7-828e-5ff7ac9dafb6.png" width="90%"></img> <img src="https://user-images.githubusercontent.com/99150908/226575601-8ef280c8-35ca-4ecf-8d78-5a5e01fee38a.png" width="90%"></img> <img src="https://user-images.githubusercontent.com/99150908/226575592-5c4daa98-219c-46c8-b912-c6495aa1ab24.gif" width="45%"></img> 
+<img src="https://user-images.githubusercontent.com/99150908/228831047-648f4eb0-09be-4430-9167-69c92a28e274.png" width="90%"></img> <img src="https://user-images.githubusercontent.com/99150908/228831057-1272208c-fde1-42e7-b55b-6ed095136fd6.png" width="90%"></img> <img src="https://user-images.githubusercontent.com/99150908/228831064-bdcdde51-b712-4721-a8d5-261120e398f0.png" width="90%"></img> <img src="https://user-images.githubusercontent.com/99150908/228831074-c37c2517-35d4-4358-a99f-45118b58377d.png" width="90%"></img> <img src="https://user-images.githubusercontent.com/99150908/228831083-c5a8464b-5283-46f2-ba5a-eb01f6b07d56.png" width="90%"></img> <img src="https://user-images.githubusercontent.com/99150908/228831184-bea1408e-d4d0-4585-aa29-47ececf4bc2d.png" width="90%"></img> <img src="https://user-images.githubusercontent.com/99150908/228831203-47344559-a1ca-4302-94f9-d24777501159.png" width="90%"></img> <img src="https://user-images.githubusercontent.com/99150908/228831241-79dd073c-1170-46e1-ba50-9165ae42cfa1.png" width="34%"></img> <img src="https://user-images.githubusercontent.com/99150908/228831255-a9a34e60-802b-4fa8-ad26-4a1ce4d5566a.png" width="90%"></img> <img src="https://user-images.githubusercontent.com/99150908/228831273-ae4a5a6b-f8a4-42cb-8e72-90fe5d3cdfc0.png" width="34%"></img> <img src="https://user-images.githubusercontent.com/99150908/228831294-390f91d8-9408-4787-8ca9-80dfa0835fbf.png" width="90%"></img> <img src="https://user-images.githubusercontent.com/99150908/228831310-70256e32-1d86-420e-85e8-f5b517d846e8.png" width="34%"></img> <img src="https://user-images.githubusercontent.com/99150908/228831320-5063c2b9-5d12-43f1-b5e6-c394997abfae.png" width="90%"></img> 
 
 
 ## Release Notes
