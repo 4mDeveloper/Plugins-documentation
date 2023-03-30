@@ -12,7 +12,7 @@ This <strong>"Enhanced Megamenu"</strong> plugin adds function of animated and c
 * Option to change `Appearance` of the menu. By default, after installation `Enhanced Megamenu`, your 2 primary store colors are set as colors for your `Enhanced Megamenu`. 
   You can also change `Enhanced Megamenu` background color.
 
-## Configuration
+## Configuration - Plugin
 
 ### 1) Install & activate Enhanced Megamenu plugin 
 
@@ -42,6 +42,16 @@ This <strong>"Enhanced Megamenu"</strong> plugin adds function of animated and c
 ![header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/Enhanced%20Megamenu%20plugin/Enhanced%20megamenu%20images%20for%20documentation/Gallery/BASE%20images%20-%20Backend/03-Enhanced-Megamenu-Theme-Compilation.png?raw=true)
 
 * If you want your settings to take effect, you need to `compile` your theme.
+
+## Configuration - Category
+
+### Upload your icon to category (size: `65 x 50 pixels` - with `transparent background`)
+* 1) Click to your Category / Sub - Category / Sub - Sub - Category 
+* 2) In Custom Field - Upload your own `icon` to category, which will be displayed in `Enhanced Megamenu`. 
+* 3) Save your progress and see, that new icon is displayed in your category in `Megamenu`.
+
+![header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/Enhanced%20Megamenu%20plugin/Enhanced%20megamenu%20images%20for%20documentation/Gallery/BASE%20images%20-%20Backend/01-Enhanced-Megamenu-Configuration.png?raw=true)
+
 
 ## Usage
 Animated `Enhanced Megamenu` is easy to edit and integrate into any website. This plugin is programmed for the first, second and third level of the menu categories and contains their own design for `mobile/tablet` devices.
