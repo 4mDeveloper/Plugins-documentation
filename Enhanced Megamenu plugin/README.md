@@ -4,7 +4,7 @@
 
 ## Description
 
-This <strong>"Enhanced Megamenu"</strong> plugin adds the possibility to have animated and customized `menu`.
+This <strong>"Enhanced Megamenu"</strong> plugin adds function of animated and customized `menu`.
 
 * Language support <strong>EN / GER</strong>.
 * `Sub stores` support - Each `sub store` can have its settings for displaying colors for `Enhanced Megamenu`.
