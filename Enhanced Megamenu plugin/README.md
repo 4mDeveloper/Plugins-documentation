@@ -63,8 +63,14 @@ Thanks to the animations, the shop looks modern and your customers will be happy
 ## Gallery
 <!-- https://felixhayashi.github.io/ReadmeGalleryCreatorForGitHub/ -->
 
-<img src="https://user-images.githubusercontent.com/99150908/228831184-bea1408e-d4d0-4585-aa29-47ececf4bc2d.png" width="90%"></img> <img src="https://user-images.githubusercontent.com/99150908/228831203-47344559-a1ca-4302-94f9-d24777501159.png" width="90%"></img> <img src="https://user-images.githubusercontent.com/99150908/228831241-79dd073c-1170-46e1-ba50-9165ae42cfa1.png" width="90%"></img> <img src="https://user-images.githubusercontent.com/99150908/228831255-a9a34e60-802b-4fa8-ad26-4a1ce4d5566a.png" width="90%"></img> <img src="https://user-images.githubusercontent.com/99150908/228831273-ae4a5a6b-f8a4-42cb-8e72-90fe5d3cdfc0.png" width="90%"></img> 
-<img src="https://user-images.githubusercontent.com/99150908/228831294-390f91d8-9408-4787-8ca9-80dfa0835fbf.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/99150908/228831310-70256e32-1d86-420e-85e8-f5b517d846e8.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/99150908/228831320-5063c2b9-5d12-43f1-b5e6-c394997abfae.png" width="30%"></img> 
+<img src="https://user-images.githubusercontent.com/99150908/228831184-bea1408e-d4d0-4585-aa29-47ececf4bc2d.png" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/99150908/228831203-47344559-a1ca-4302-94f9-d24777501159.png" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/99150908/228831241-79dd073c-1170-46e1-ba50-9165ae42cfa1.png" width="30%"></img>
+<img src="https://user-images.githubusercontent.com/99150908/228831255-a9a34e60-802b-4fa8-ad26-4a1ce4d5566a.png" width="30%"></img>
+<img src="https://user-images.githubusercontent.com/99150908/228831273-ae4a5a6b-f8a4-42cb-8e72-90fe5d3cdfc0.png" width="30%"></img> 
+<img src="https://user-images.githubusercontent.com/99150908/228831294-390f91d8-9408-4787-8ca9-80dfa0835fbf.png" width="30%"></img>
+<img src="https://user-images.githubusercontent.com/99150908/228831310-70256e32-1d86-420e-85e8-f5b517d846e8.png" width="30%"></img>
+<img src="https://user-images.githubusercontent.com/99150908/228831320-5063c2b9-5d12-43f1-b5e6-c394997abfae.png" width="30%"></img> 
 
 
 ## Release Notes
