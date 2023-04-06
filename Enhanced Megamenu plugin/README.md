@@ -49,7 +49,7 @@ This <strong>"Enhanced Megamenu"</strong> plugin adds function of animated and c
 * After plugin installation - new folder called `Enhanced Megamenu` will be created and its located in `Media` root folder.
 * To this folder, please upload <strong>all </strong> your new icons for your categories
 
-![header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/Enhanced%20Megamenu%20plugin/Enhanced%20megamenu%20images%20for%20documentation/Gallery/BASE%20images%20-%20Backend/04-Enhanced-Megamenu-Category-Configuration.png?raw=true)
+![header image](https://github.com/4mDeveloper/Plugins-documentation/blob/main/Enhanced%20Megamenu%20plugin/Enhanced%20megamenu%20images%20for%20documentation/Gallery/BASE%20images%20-%20Backend/04-Enhanced-Megamenu-Category-Media-Uploads.png?raw=true)
 
 ### Upload your icon to category (size: `65 x 50 pixels` - with `transparent background`)
 * 1) Click to your Category / Sub - Category / Sub - Sub - Category 
